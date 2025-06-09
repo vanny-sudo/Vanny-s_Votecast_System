@@ -73,6 +73,28 @@ Our system provides a robust and efficient voting solution with:
 
 ## 🖼️ Screenshots
 
+![image](https://github.com/user-attachments/assets/0cbbf620-184c-4b1d-b908-bead0a7acb8b)
+
+![image](https://github.com/user-attachments/assets/f6e56cb8-f37b-4330-926b-1c8c48808e14)
+
+![image](https://github.com/user-attachments/assets/c46c1e31-4d3c-47bc-b52f-85c91116a5c7)
+
+![image](https://github.com/user-attachments/assets/a7598345-6eb6-4592-97aa-fe95ccc79f59)
+
+![image](https://github.com/user-attachments/assets/4a21ce0b-d097-4164-9cd4-9bb2b0b7ca68)
+
+![image](https://github.com/user-attachments/assets/28c7342c-4bd1-4ceb-ad10-0d14463a8021)
+
+![image](https://github.com/user-attachments/assets/fc1efeaf-7bef-482f-ac01-689392055851)
+
+
+
+
+
+
+
+
+
 ## 🎯 Benefits
 
 - **📈 Boosts Participation:** – By up to 30% with easy access.
